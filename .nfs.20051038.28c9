@@ -33,7 +33,7 @@
     </div>
     <div class="row">
    	<sidebar class="col-lg-2"> </sidebar>
-      <footer class="col-lg-8 text-center" ><img src="images/footer.jpg" class="img-responsive"></footer>
+      <footer class="col-lg-8 text-center" >Contact Info: </footer>
    <sidebar class="col-lg-2"></sidebar> 
     </div>
   </div>
